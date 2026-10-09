@@ -1,0 +1,60 @@
+{
+  "source": "Google Scholar",
+  "profileURL": "https://scholar.google.com/citations?user=PGULkm0AAAAJ&hl=en",
+  "githubURL": "https://github.com/X-mOtion",
+  "checkedOn": "2026-10-09",
+  "metrics": {
+    "citations": 36,
+    "hIndex": 3,
+    "i10Index": 2
+  },
+  "publications": {
+    "movt": {
+      "title": "MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation",
+      "year": 2026,
+      "citations": 0,
+      "status": "indexed",
+      "scholarURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:Tyk-4Ss8FVUC",
+      "citingWorksURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:Tyk-4Ss8FVUC"
+    },
+    "amd": {
+      "title": "AMD: anatomical motion diffusion with interpretable motion decomposition and fusion",
+      "year": 2024,
+      "citations": 11,
+      "status": "indexed",
+      "scholarURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:2osOgNQ5qMEC",
+      "citingWorksURL": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3874322494010152910"
+    },
+    "image": {
+      "title": "Image generation step by step: animation generation-image translation",
+      "year": 2022,
+      "citations": 15,
+      "status": "indexed",
+      "scholarURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:d1gkVwhDpl0C",
+      "citingWorksURL": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14779760203905723686"
+    },
+    "video": {
+      "title": "Video prediction: a step-by-step improvement of a video synthesis network",
+      "year": 2022,
+      "citations": 9,
+      "status": "indexed",
+      "scholarURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:9yKSN-GCB0IC",
+      "citingWorksURL": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996036053245365280"
+    },
+    "denoise": {
+      "title": "Image double blind denoising algorithm combining with denoising convolutional neural network and conditional generative adversarial net",
+      "year": 2021,
+      "citations": 1,
+      "status": "indexed",
+      "scholarURL": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PGULkm0AAAAJ&pagesize=100&citation_for_view=PGULkm0AAAAJ:zYLM7Y9cAGgC",
+      "citingWorksURL": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12246832759865693995"
+    },
+    "rv2m": {
+      "title": "Retrieving Videos for Augmented Human Motion Generation",
+      "year": 2026,
+      "citations": null,
+      "status": "not_indexed",
+      "scholarURL": "https://scholar.google.com/scholar?hl=en&q=%22Retrieving%20Videos%20for%20Augmented%20Human%20Motion%20Generation%22"
+    }
+  }
+}
